@@ -1,0 +1,12 @@
+.time {
+  padding: 20px;
+}
+
+.time > span {
+  font-size: 30px;
+}
+
+button {
+  font-weight: bold;
+  padding: 10px;
+}
